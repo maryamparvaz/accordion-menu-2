@@ -11,4 +11,4 @@
 
 - Role - Frontend👌
 
-- How to reach me : with my [instagram](https://www.instagram.com/maryamparvaz_web) and [linkedin](https://www.linkedin.com/in/maryamparvaz)👩‍💻
+- How to reach me : with my [instagram](https://www.instagram.com/maryamparvaz_web) and [linkedin](https://www.linkedin.com/in/maryam-parvaz-3687b327a/)👩‍💻
