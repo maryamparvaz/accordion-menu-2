@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #c6e6fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: column;
+}
+body > h1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-family: me;
+  font-size: 90px;
+  color: rgb(197, 157, 95);
+}
+@media screen and (max-width: 800px) {
+  body > h1 {
+    font-size: 60px;
+  }
+}
+
+@font-face {
+  font-family: me;
+  src: url(GreatVibes-Regular.ttf);
+}
+main {
+  width: 600px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px 0;
+}
+@media screen and (max-width: 800px) {
+  main {
+    width: 400px;
+  }
+}
+main > div {
+  width: 100%;
+  min-height: 100px;
+}
+main > div > div {
+  width: 100%;
+  background: white;
+  padding: 25px 15px;
+  margin: 20px 0;
+  box-shadow: 0 0 5px rgb(167, 167, 167);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+main > div > div > p {
+  font-size: 20px;
+}
+main > div > div > button {
+  background: white;
+  color: rgb(197, 157, 95);
+  border-color: rgb(197, 157, 95);
+  padding: 0 6px;
+  font-weight: bolder;
+  font-size: 20px;
+  transition: 0.4s;
+}
+main > div > div > button:hover {
+  transform: rotate(90deg);
+}
+main > div > div > div {
+  width: 100%;
+  margin-top: 20px;
+  border-top: 1px solid rgb(160, 158, 158);
+  padding-top: 10px;
+  display: none;
+}
+
+._block {
+  display: block;
+}
+
+._none {
+  display: none;
+}/*# sourceMappingURL=index.css.map */
