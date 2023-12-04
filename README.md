@@ -1,5 +1,5 @@
 # accordion-menu-2
-- [Demo Project](https://maryamparvaz.github.io/accordion-menu/)
+- [Demo Project](https://maryamparvaz.github.io/accordion-menu-2/)
 
 - Developed by Maryam Parvaz 🙎
 
